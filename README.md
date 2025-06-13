@@ -29,7 +29,7 @@ A sophisticated brute force tool designed for penetration testing Cherryproxy ac
 ```bash
 # Clone repository
 git clone https://github.com/angkerith1/Cherryproxy-BruteForce.git
-cd cherryproxy-brute
+cd Cherryproxy-BruteForce
 
 # Install dependencies
 pip install -r requirements.txt
